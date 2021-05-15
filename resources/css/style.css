@@ -5,6 +5,20 @@ body {
 
 a {
     color: grey;
-    position:
     
+}
+
+.container {
+    display: inline-block;
+    float: right;
+}
+
+h2 {
+    display: inline-block;
+    margin-right: 15px;
+    
+}
+
+.logo {
+    margin-right: 600px;
 }
